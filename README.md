@@ -1,4 +1,6 @@
 # PhDHybridChoiceModelPaper
+[![DOI](https://zenodo.org/badge/552846180.svg)](https://doi.org/10.5281/zenodo.20645856)
+
 - Replication code and data for my paper "Willingness-to-pay for precautionary control of microplastics, a comparison of hybrid choice models.".  
 
 - Acknowledgements:
